@@ -1,1 +1,1 @@
-worker: python WZ_boto.py
+worker: python main.py
