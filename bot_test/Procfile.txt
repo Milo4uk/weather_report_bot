@@ -1,1 +1,0 @@
-worker: python WZ_boto.py
